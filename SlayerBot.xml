@@ -33,6 +33,9 @@
    <command commandName="KP MMC">
       <response>https://www.dropbox.com/s/wvpvm8v12hl6xsj/karelpack%20v6.zip</response>
    </command>
+   <command commandName="msg">
+   	<response>/msg %varible</response>
+   </command>
    <joke>
       <joke>A woman gets on a bus with her baby. The bus driver says: ''Ugh, that's the ugliest baby I've ever seen!'' The woman walks to the rear of the bus and sits down, fuming. She says to a man next to her: ''The driver just insulted me!'' The man says: ''You go up there and tell him off. Go on, I'll hold your monkey for you.''</joke>
       <joke>''I went to the zoo the other day, there was only one dog in it, it was a shitzu.''</joke>
